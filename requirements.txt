@@ -1,0 +1,14 @@
+streamlit
+fastapi
+uvicorn
+requests
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+langsmith
+faiss-cpu
+python-dotenv
+pymupdf
+nemoguardrails
+deepeval

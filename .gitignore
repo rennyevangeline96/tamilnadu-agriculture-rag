@@ -1,0 +1,36 @@
+# Secrets and environment configurations
+.env
+*.env
+
+# Virtual environments
+venv*/
+.venv/
+env/
+
+# Python cache & runtime bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# DeepEval, pytest, and testing caches
+.pytest_cache/
+.deepeval/
+.deepeval-cache/
+tests/.deepeval-cache/
+.coverage
+htmlcov/
+
+# Local logs
+*.log
+
+# Local chat storage & user session data
+chats.json
+
+# IDE & Editor specific files
+.vscode/
+.idea/
+
+# OS generated artifacts
+.DS_Store
+Thumbs.db
